@@ -7,7 +7,8 @@ Set up:
 
 Run:
 For running the application in local, simply Run-As Spring Boot Application
-For deploying the changes to cloud(Google App Engine) - mvn clean package app-engine:deploy
+For deploying the changes to cloud(Google App Engine) - 
+mvn clean package app-engine:deploy
 
 Test the application: 
 Localy Running Application-
